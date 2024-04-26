@@ -62,7 +62,11 @@ function Footer() {
     </div>
   </div>
 
- 
+  <div className="container">
+      <div className="copyright">
+        &copy;2024 <strong><span>Rapid Ease Innovations</span></strong>. All Rights Reserved
+      </div>
+    </div>
 </footer>
   )
 }
