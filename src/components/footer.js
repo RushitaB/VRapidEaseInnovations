@@ -12,9 +12,10 @@ function Footer() {
           <div className="footer-info">
             <h3>Rapid Ease Innovations</h3>
             <p>
-             Gujarat, India<br /><br />
-              <strong>Phone:</strong> +91 6355204179<br />
-              <strong>Email:</strong> rapideaseinnovations@gmail.com<br />
+             India<br />
+             <br />
+              {/* <strong>Phone:</strong> +91 6355204179<br /> */}
+              <strong>Email:</strong> info@rapideaseinnovations.com <br />
             </p>
             <div className="social-links mt-3">
               <a href="#" className="twitter"><i className="bx bxl-twitter"></i></a>
